@@ -1,0 +1,30 @@
+.footer_pic{
+    margin-right: 0;
+    margin-left: 0;
+    margin-left: 0;
+
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    display: flex;
+    min-height: 10vh;
+    max-width: 100%;
+    padding-left: 10%;
+    background-color:#0d0d0d;
+    text-align: left;
+}
+
+h5{
+    max-width: 50%;
+}
+
+.lol{
+    padding-left: 1px;
+    min-height: 10vh;
+    min-width: 50vh;
+}
+
+hr {
+    margin: 0;
+    border: 1px solid black;
+}
