@@ -100,7 +100,7 @@ function Repertuar({navigation, Route}) {
       <div className="teraz_gramy">
         <h1 style={{marginLeft:"4%"}}>Teraz Gramy</h1>
       </div>
-      <div className="cos">
+      <div className="rep">
       <div className="cal">
       <button className="card" onClick={()=>{changeCurrentData(0)}}>
         <h7 className="date">Czw</h7>

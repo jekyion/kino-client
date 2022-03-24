@@ -1,6 +1,5 @@
-import logo from './media/logo.svg';
+
 import './css/App.css';
-import { Navbar } from 'react-bootstrap';
 import { Route, Routes } from 'react-router-dom';
 import Repertuar from './Repertuar.js';
 import Home from './Home.js';
